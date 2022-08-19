@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información de programa. Tecnólogo. Gestión del desarrollo administrativo e innovación**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-122153-TG-GSTION_DLLO_ADMIN_INNOVA/](https://sena-externos.github.io/INFO-122153-TG-GSTION_DLLO_ADMIN_INNOVA/)
 
 #
